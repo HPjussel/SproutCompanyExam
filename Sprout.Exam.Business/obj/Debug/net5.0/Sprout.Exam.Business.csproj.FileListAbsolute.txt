@@ -1,0 +1,17 @@
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.deps.json
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\ref\Sprout.Exam.Business.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Common.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.AssemblyReference.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.AssemblyInfoInputs.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.AssemblyInfo.cs
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.CopyComplete
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\ref\Sprout.Exam.Business.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.pdb
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.DataAccess.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.DataAccess.pdb

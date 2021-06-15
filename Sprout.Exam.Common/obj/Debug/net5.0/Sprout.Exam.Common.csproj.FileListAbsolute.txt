@@ -1,0 +1,12 @@
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.deps.json
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\ref\Sprout.Exam.Common.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.csproj.AssemblyReference.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.AssemblyInfoInputs.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.AssemblyInfo.cs
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\ref\Sprout.Exam.Common.dll
+D:\Programming\Repos\SproutExam\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.pdb
